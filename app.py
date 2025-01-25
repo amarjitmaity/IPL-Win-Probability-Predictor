@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title('IPL Win Predictor')   # Giving title of the website
+st.title('IPL-2025 Win Probability Predictor')   # Giving title of the website
 
 teams=['Sunrisers Hyderabad', 'Mumbai Indians',
        'Royal Challengers Bangalore', 'Kolkata Knight Riders',
